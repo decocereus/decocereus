@@ -4,6 +4,8 @@
 Passionate about **TypeScript**, **Next.js**, **Node.js**, **AI** and **Web3**.  
 Based in India | Building everyday.
 
+
+![GitHub Streak](https://streak-stats.demolab.com?user=decocereus&theme=tokyonight)
 ---
 
 ## Working at
@@ -41,10 +43,10 @@ Based in India | Building everyday.
 ---
 
 ## 🌱 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/amartya-singh-b1b461191/](https://www.linkedin.com/in/amartyasingh07/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amartyasingh07/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/decocereus)  
 [🌐 Portfolio Website](https://decocereus.dev)
 
 ---
 
-> _"Code is never just code — it’s leverage."_ 💡
+> $ **"Code is never just code — it’s leverage."**
