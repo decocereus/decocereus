@@ -1,18 +1,14 @@
 # Hey, I’m Amartya Singh
 
-**Solo founder & Full Stack Engineer** building [Cliply](https://cliply.fun) -- AI-powered video repurposing.  
+**Solo founder & Full Stack Engineer** 
 Passionate about **TypeScript**, **Next.js**, **Node.js**, **AI**, and **Web3**.  
-Based in India -- building everyday.
+Based in India, building everyday.
 
 ---
 
 ## Working at
 - **[Avail](https://availproject.co)** as a frontend engineer.
 - Built **[Nexus SDK](https://www.npmjs.com/package/@avail-project/nexus)** to bring cross-chain liquidity to users and dApps.
-
-## What I’m Building
-- **[Cliply](https://cliply.fun)** -- Turn long videos into short, shareable clips for TikTok, Reels, Shorts, and more.
-- Learning & building AI-assisted tools for content creation.
 
 ---
 
@@ -69,4 +65,4 @@ Based in India -- building everyday.
 
 ---
 
-> **"Code is never just code -- it’s leverage."**
+> **"Code is never just code, it’s leverage."**
