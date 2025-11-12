@@ -39,17 +39,6 @@ Based in India, building everyday.
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=decocereus&layout=compact&theme=tokyonight&hide=c++,java,python,php,ruby,html,css,scss&hide_border=true" />
 </p>
 
----
-
-## Highlights
-- Total Commits (2025): **249**  
-- Pull Requests Merged: **16**  
-- Issues Opened: **4**  
-- Repositories Contributed To (last year): **6**  
-- Primary Language: **TypeScript**
-
----
-
 ## Find me at 
 
 <p align="center">
